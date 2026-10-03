@@ -54,4 +54,7 @@ window.addEventListener("scroll", reveal)
 window.addEventListener("load", reveal)  
 
 
-let arr = document.getElementById("ahmed")
+let arr = document.getElementById("ahmed") 
+function  arr() {
+
+}
